@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Isaías Araújo
+#  Isaías Araújo
 
 **`Desenvolvedor com foco em Back-End`**
 
