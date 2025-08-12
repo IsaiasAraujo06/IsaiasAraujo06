@@ -2,7 +2,7 @@
 
 **`Desenvolvedor com foco em Back-End`**
 
-Me chamo Isaías, tenho 19 anos e sou natural do Piauí. Atualmente, estou aguardando o início da minha graduação em Gestão de Dados pela Universidade Federal do Piauí (UFPI). 
+Me chamo Isaías, tenho 19 anos e sou natural do Piauí. Atualmente, estou graduando Gestão de Dados pela Universidade Federal do Piauí (UFPI). 
 
 
 
